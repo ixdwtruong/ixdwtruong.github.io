@@ -56,13 +56,12 @@
   --spacer-3: calc(var(--spacer) * 3);
 }
 
-// Dark Poole theme
-[data-theme="dark-poole"] {
+[data-theme="blue"] {
   --body-color: var(--gray-900);
   --body-bg: var(--gray-000);
-  --heading-color: var(--dark-poole-002);
-  --link-color: var(--dark-poole-link-color);
-  --link-hover-color: var(--dark-poole-link-hover);
-  --border-color: rgba(255, 255, 255, 0.15);
+  --heading-color: var(--blue);
+  --link-color: var(--gray-900);
+  --link-hover-color: var(--blue)
+  --border-color: var(--gray-900);
   --code-bg: var(--gray-900);
 }
