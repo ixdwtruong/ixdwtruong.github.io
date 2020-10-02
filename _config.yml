@@ -1,6 +1,6 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: Process work for IxD Courses
+url: https://ixdwtruong.github.io
 paginate: 4
 baseurl: ""
 permalink: pretty
@@ -32,9 +32,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Wilson Truong
+  url: 
+  email: truonwil@sheridancollege.ca
 
 # Custom vars
 version: 3.0.0
