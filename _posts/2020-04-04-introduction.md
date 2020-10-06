@@ -110,7 +110,7 @@ Mike doing a few experiments with copper tape, conductive fabric, wire wrapping,
 
 <br>
 
-![image](/images.11.jpg)
+![image](/images/11.jpg)
 
 <br>
 
