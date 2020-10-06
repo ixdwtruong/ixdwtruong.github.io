@@ -76,8 +76,6 @@ I decided to focus on the flex sensor as I was very interested in pushing it fur
 
 My eventual idea was to use flex sensors that are sewed into a glove to produce a specific sound when a specific gesture is made. For example, if you make a gun gesture, it would play a sound. I felt this idea was doable but wiring all this up and planning would be a bit challenging, regardless, I pushed full steam ahead in seeing if this idea worked.
 
-![image](/images/posts/journey1.jpg)
-
 My experiments and tinkering showed that it can be done but the flex sensors proved to be very unreliable. One challenge was that the flex sensors that I created for each finger varied regarding its output in the serial monitor. I think because I was using packaging tape to bind everything together, so it was stiff. The variance between each sensor was different because since it was hand made, it wasn't consistent in how I cut the strips of fabric.
 
 ![image](/images/posts/journey1.jpg)
