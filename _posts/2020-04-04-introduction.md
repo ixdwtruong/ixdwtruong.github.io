@@ -42,7 +42,7 @@ After the fruit experiments, I decided to try out making my flex sensors based o
 
 <br>
 
-![image](/images/3.jpg)
+![image](/images/6.jpg)
 
 <br>
 
@@ -66,7 +66,7 @@ The next step was seeing if I could output an led as well, this was fairly simpl
 
 <br>
 
-![image](/images/6.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ypI4DzrfJw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
