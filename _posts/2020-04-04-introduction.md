@@ -4,7 +4,25 @@ title: Interactive Objects Project 1 Process Doc
 permalink: /intobjp1/
 ---
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+![image](/images/posts/journey1.jpg)
+
+## Design Statement
+
+In this project, our focus was to experiment and understand how to build circuits. We used different methods of building circuits, using conductive fabric/velostat, copper tape, graphite, and fruits. These resulted in a broader understanding of how ciruits worked but what things that could be made out of. Using conductive fabric and velostat produced flexible sensors, that could be used for clothing applications. Using fruits resulted in using them for batteries, if connected in parallel, for an LED. In addition to these experiments, further work was done to understand how the Arduino communicates to P5.
+
+In this particular process document (or exploration), the focus on primarly on flex sensors and how to use conductive fabric/velostat to create something interesting. The experiments that were done previously, provided an understanding how these things worked and gave a confidence boost in using handmade sensors in everyday things. In the end, the project was to learn and it was something we got a lot with. The learning we did will be used in further projects, as well building upon that foundation we created at the beginning of the semester.
+
+## Experimentation, experiementation, and more experimentation
+
+![image](/images/posts/journey1.jpg)
+
+At the beginning of the project, I (along with my group members) were quite lost in regards to how to start or how circuits even worked. We decided to try the fruit experiement that was demoed in class, on a weekend, and see if we could figure that out. Although, we weren't able to get it working (due to us not having specific meterials) - We learned:
+
+* Specific metals are conductive like copper and zinc. Other metals like nickel (we tried a quarter), didn't work too well, even though it had a small amount of copper in it. We tried other metals like brass, alumnum, and steel, these didn't conduct enough current to power the led.
+* From a bit of exploring, we learned that it was a bascially a chemical reaction with the citric acid from the fruit along with the metal to conduct electricity. That was pretty neat.
+* I tried other fruits like a grapefruit, lemon, lime, and an orange. It was very dependent if the fruit was ripe or have enough juice, in order for it to work.
+
+![image](/images/posts/journey1.jpg)
 
 -----
 
