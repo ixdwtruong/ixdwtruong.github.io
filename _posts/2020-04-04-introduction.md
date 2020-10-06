@@ -114,6 +114,10 @@ Mike doing a few experiments with copper tape, conductive fabric, wire wrapping,
 
 <br>
 
+![image](/images/16.jpg)
+
+<br>
+
 Emily playing around with the button sketch with the p5 serial app.
 
 I learned quite a bit about how different materials can be used to create circuits and the possibilities that there are to create wearables. I think it's possible to create interesting things, but I feel it's very limited depending on what can be done on your own versus a large manufacturer that has an engineering team. For example, looking at a conductive fabric, I feel that you can't do much outside of pressure/flex sensors in the realm of DIY. The P5 serial stuff is interesting and Bruno did quite a few interesting things, but I can see it using it for games or even creating a one-handed controller from an Arduino.
@@ -134,7 +138,11 @@ My eventual idea was to use flex sensors that are sewed into a glove to produce 
 
 My experiments and tinkering showed that it can be done but the flex sensors proved to be very unreliable. One challenge was that the flex sensors that I created for each finger varied regarding its output in the serial monitor. I think because I was using packaging tape to bind everything together, so it was stiff. The variance between each sensor was different because since it was hand made, it wasn't consistent in how I cut the strips of fabric.
 
-![image](/images/posts/journey1.jpg)
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NMkPzGQyIZY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
 
 There was still lots to do at this point:
 
@@ -146,15 +154,19 @@ There was still lots to do at this point:
 
 I tested out with two sensors at first and it seemed to work. I used if statements and it triggered the sound when it hit a certain point. For example, for the index finger, when it was straight it was at a value of 350 then when bent to a 90-degree angle, it would hit around 700-800. By using if statements and the && operator, when two flex sensors are bent at 90, it would trigger a different sound.
 
-![image](/images/posts/journey1.jpg)
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sG61J8xhMNw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
 
 Although, the final product was as straightforward as I anticipated... With five fingers, it was difficult to map as it was very sensitive when it was worn. The slightest movement would trigger something so after playing around, I triggered the sound with specific fingers on specific actions: For example, a gun gesture would have the index straight and the thumb vertically, while the other three fingers are bent towards the palm. By just enabling the index finger to be the trigger, this made it easier to use other fingers as a trigger for other noises.
 
-![image](/images/posts/journey1.jpg)
+![image](/images/posts/15.jpg)
 
 It wasn't an elegant solution, but it worked regardless of the final product:
 
-![image](/images/posts/journey1.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SYoiBo7qgPc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The final circuit diagram from Fritizing:
 
