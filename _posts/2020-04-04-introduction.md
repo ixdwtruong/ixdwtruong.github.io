@@ -16,7 +16,11 @@ In this process document (or exploration), the focus on primarily on flex sensor
 
 ## Experimentation, experimentation, and more experimentation
 
+<br>
+
 ![image](/images/1.jpg)
+
+<br>
 
 At the beginning of the project, I (along with my group members) were lost on how to start. We decided to try the fruit experiment that was demoed in class, on a weekend, and see if we could figure that out. Although, we couldn’t get it working (due to us not having specific materials) - We learned:
 
@@ -24,7 +28,11 @@ At the beginning of the project, I (along with my group members) were lost on ho
 * From a bit of exploring, we learned that it was a chemical reaction with the citric acid from the fruit along with the metal to conduct electricity. That was neat.
 * I tried other fruits like grapefruit, lemon, lime, and an orange. It was very dependent if the fruit was ripe or have enough juice, for it to work.
 
+<br>
+
 ![image](/images/2.jpg)
+
+<br>
 
 -----
 
@@ -32,19 +40,35 @@ At the beginning of the project, I (along with my group members) were lost on ho
 
 After the fruit experiments, I decided to try out making my flex sensors based on the YouTube tutorials that were posted by Doug. I found it rather interesting to create and use but I saw limited potential in how the flex sensor could be used.
 
+<br>
+
 ![image](/images/3.jpg)
+
+<br>
 
 I decided to see if I could use the flex sensor to output a few things like LEDs or sound. After a few more experiments, I was able to use the flex sensor with a led and a speaker. The concept here is, when you bend the sensor the led lights up or the speaker will output a tone. Since I didn't use an mp3 shield (foreshadowing here), I was able to use basic tones rather than something like music.
 
+<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aWp9E93Of5M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
 
 Afterward, I remembered that I still had the Adafruit Wave Shield from the first semester - I was curious if I could make it work with the flex sensor. Initially, it was a bit difficult to get it working due to how I wired it - I had to de-soldier (and re-solider) a few things due to it being used in a previous project, but eventually, I got it working with just the flex sensor and it outputting a wav file.
 
+<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rQ10yC5-6K8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
 
 The next step was seeing if I could output an led as well, this was fairly simple in code and wiring but there was a significant delay when the flex sensor is bent. The sound seems to be played first and then the led will turn on, I think this could be a code fix but I decided to leave it as is while I experiment on other things.
 
+<br>
+
 ![image](/images/6.jpg)
+
+<br>
 
 -----
 
