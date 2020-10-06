@@ -16,22 +16,37 @@ In this process document (or exploration), the focus on primarily on flex sensor
 
 ## Experimentation, experimentation, and more experimentation
 
+![image](/images/posts/journey1.jpg)
+
 At the beginning of the project, I (along with my group members) were lost on how to start. We decided to try the fruit experiment that was demoed in class, on a weekend, and see if we could figure that out. Although, we couldn’t get it working (due to us not having specific materials) - We learned:
 
 * Specific metals are conductive like copper and zinc. Other metals like nickel (we tried a quarter), didn't work too well, even though it had a small amount of copper in it. We tried other metals like brass, aluminum, and steel, these didn't conduct enough current to power the led.
 * From a bit of exploring, we learned that it was a chemical reaction with the citric acid from the fruit along with the metal to conduct electricity. That was neat.
 * I tried other fruits like grapefruit, lemon, lime, and an orange. It was very dependent if the fruit was ripe or have enough juice, for it to work.
 
+![image](/images/posts/journey1.jpg)
+
+-----
 
 ## Flex sensors and the challenges
 
 After the fruit experiments, I decided to try out making my flex sensors based on the YouTube tutorials that were posted by Doug. I found it rather interesting to create and use but I saw limited potential in how the flex sensor could be used.
 
+![image](/images/posts/journey1.jpg)
+
 I decided to see if I could use the flex sensor to output a few things like LEDs or sound. After a few more experiments, I was able to use the flex sensor with a led and a speaker. The concept here is, when you bend the sensor the led lights up or the speaker will output a tone. Since I didn't use an mp3 shield (foreshadowing here), I was able to use basic tones rather than something like music.
+
+![image](/images/posts/journey1.jpg)
 
 Afterward, I remembered that I still had the Adafruit Wave Shield from the first semester - I was curious if I could make it work with the flex sensor. Initially, it was a bit difficult to get it working due to how I wired it - I had to de-soldier (and re-solider) a few things due to it being used in a previous project, but eventually, I got it working with just the flex sensor and it outputting a wav file.
 
+![image](/images/posts/journey1.jpg)
+
 The next step was seeing if I could output an led as well, this was fairly simple in code and wiring but there was a significant delay when the flex sensor is bent. The sound seems to be played first and then the led will turn on, I think this could be a code fix but I decided to leave it as is while I experiment on other things.
+
+![image](/images/posts/journey1.jpg)
+
+-----
 
 ## Even more experiments!
 
@@ -39,11 +54,17 @@ Most of my learning came from looking at my group member's experiments. A few of
 
 Bruno experimenting with graphite and the p5 serial app.
 
+![image](/images/posts/journey1.jpg)
+
 Mike doing a few experiments with copper tape, conductive fabric, wire wrapping, and using the multi-meter.
+
+![image](/images/posts/journey1.jpg)
 
 Emily playing around with the button sketch with the p5 serial app.
 
 I learned quite a bit about how different materials can be used to create circuits and the possibilities that there are to create wearables. I think it's possible to create interesting things, but I feel it's very limited depending on what can be done on your own versus a large manufacturer that has an engineering team. For example, looking at a conductive fabric, I feel that you can't do much outside of pressure/flex sensors in the realm of DIY. The P5 serial stuff is interesting and Bruno did quite a few interesting things, but I can see it using it for games or even creating a one-handed controller from an Arduino.
+
+-----
 
 ## Going back to the flex sensor
 
@@ -55,7 +76,11 @@ I decided to focus on the flex sensor as I was very interested in pushing it fur
 
 My eventual idea was to use flex sensors that are sewed into a glove to produce a specific sound when a specific gesture is made. For example, if you make a gun gesture, it would play a sound. I felt this idea was doable but wiring all this up and planning would be a bit challenging, regardless, I pushed full steam ahead in seeing if this idea worked.
 
+![image](/images/posts/journey1.jpg)
+
 My experiments and tinkering showed that it can be done but the flex sensors proved to be very unreliable. One challenge was that the flex sensors that I created for each finger varied regarding its output in the serial monitor. I think because I was using packaging tape to bind everything together, so it was stiff. The variance between each sensor was different because since it was hand made, it wasn't consistent in how I cut the strips of fabric.
+
+![image](/images/posts/journey1.jpg)
 
 There was still lots to do at this point:
 
@@ -67,11 +92,21 @@ There was still lots to do at this point:
 
 I tested out with two sensors at first and it seemed to work. I used if statements and it triggered the sound when it hit a certain point. For example, for the index finger, when it was straight it was at a value of 350 then when bent to a 90-degree angle, it would hit around 700-800. By using if statements and the && operator, when two flex sensors are bent at 90, it would trigger a different sound.
 
+![image](/images/posts/journey1.jpg)
+
 Although, the final product was as straightforward as I anticipated... With five fingers, it was difficult to map as it was very sensitive when it was worn. The slightest movement would trigger something so after playing around, I triggered the sound with specific fingers on specific actions: For example, a gun gesture would have the index straight and the thumb vertically, while the other three fingers are bent towards the palm. By just enabling the index finger to be the trigger, this made it easier to use other fingers as a trigger for other noises.
+
+![image](/images/posts/journey1.jpg)
 
 It wasn't an elegant solution, but it worked regardless of the final product:
 
+![image](/images/posts/journey1.jpg)
+
 The final circuit diagram from Fritizing:
+
+![image](/images/posts/journey1.jpg)
+
+-----
 
 ## The takeaways
 
