@@ -4,13 +4,19 @@ title: Interactive Objects Project 1 Process Doc
 permalink: /intobjp1/
 ---
 
+<br>
+
 ![image](/images/posts/journey1.jpg)
+
+<br>
 
 ## Design Statement
 
 In this project, our focus was to experiment and understand how to build circuits. We used different methods of building circuits, using conductive fabric/velostat, copper tape, graphite, and fruits. These resulted in a broader understanding of how circuits worked but what things that could be made from. Using conductive fabric and velostat produced flexible sensors, that could be used for clothing applications. Using fruits resulted in using them for batteries, if connected in parallel, for an LED. In addition to these experiments, further work was done to understand how the Arduino communicates to P5.
 
 In this process document (or exploration), the focus on primarily on flex sensors and how to use conductive fabric/velostat to create something interesting. The experiments that were done previously, provided an understanding of how these things worked and gave a confidence boost in using handmade sensors in everyday things. In the end, the project was to learn, and it was something we got a lot with. The learning we did will be used in further projects, as well as building upon that foundation we created at the beginning of the semester.
+
+<br>
 
 -----
 
@@ -78,15 +84,41 @@ Most of my learning came from looking at my group member's experiments. A few of
 
 Bruno experimenting with graphite and the p5 serial app.
 
-![image](/images/posts/journey1.jpg)
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/El28MCZSujE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+![image](/images/7.png)
+
+<br>
+
+![image](/images/8.png)
+
+<br>
 
 Mike doing a few experiments with copper tape, conductive fabric, wire wrapping, and using the multi-meter.
 
-![image](/images/posts/journey1.jpg)
+<br>
+
+![image](/images/9.jpg)
+
+<br>
+
+![image](/images/10.jpg)
+
+<br>
+
+![image](/images.11.jpg)
+
+<br>
 
 Emily playing around with the button sketch with the p5 serial app.
 
 I learned quite a bit about how different materials can be used to create circuits and the possibilities that there are to create wearables. I think it's possible to create interesting things, but I feel it's very limited depending on what can be done on your own versus a large manufacturer that has an engineering team. For example, looking at a conductive fabric, I feel that you can't do much outside of pressure/flex sensors in the realm of DIY. The P5 serial stuff is interesting and Bruno did quite a few interesting things, but I can see it using it for games or even creating a one-handed controller from an Arduino.
+
+<br>
 
 -----
 
