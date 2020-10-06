@@ -162,15 +162,28 @@ I tested out with two sensors at first and it seemed to work. I used if statemen
 
 Although, the final product was as straightforward as I anticipated... With five fingers, it was difficult to map as it was very sensitive when it was worn. The slightest movement would trigger something so after playing around, I triggered the sound with specific fingers on specific actions: For example, a gun gesture would have the index straight and the thumb vertically, while the other three fingers are bent towards the palm. By just enabling the index finger to be the trigger, this made it easier to use other fingers as a trigger for other noises.
 
+<br>
+
 ![image](/images/15.jpg)
+
+<br>
 
 It wasn't an elegant solution, but it worked regardless of the final product:
 
+<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SYoiBo7qgPc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The final circuit diagram from Fritizing:
+<br>
 
-![image](/images/posts/journey1.jpg)
+The final circuit diagram from Fritzing:
+
+<br>
+
+![image](/images/20.jpg)
+(Do note that the Adafruit Wave Shield is suppose to be on top, I couldn't find an image in Fritzing)
+
+<br>
 
 -----
 
