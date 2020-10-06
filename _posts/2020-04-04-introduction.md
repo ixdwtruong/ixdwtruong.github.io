@@ -140,7 +140,7 @@ My experiments and tinkering showed that it can be done but the flex sensors pro
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NMkPzGQyIZY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sG61J8xhMNw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -156,13 +156,13 @@ I tested out with two sensors at first and it seemed to work. I used if statemen
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sG61J8xhMNw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NMkPzGQyIZY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
 Although, the final product was as straightforward as I anticipated... With five fingers, it was difficult to map as it was very sensitive when it was worn. The slightest movement would trigger something so after playing around, I triggered the sound with specific fingers on specific actions: For example, a gun gesture would have the index straight and the thumb vertically, while the other three fingers are bent towards the palm. By just enabling the index finger to be the trigger, this made it easier to use other fingers as a trigger for other noises.
 
-![image](/images/posts/15.jpg)
+![image](/images/15.jpg)
 
 It wasn't an elegant solution, but it worked regardless of the final product:
 
