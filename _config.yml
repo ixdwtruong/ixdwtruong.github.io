@@ -25,13 +25,6 @@ sass:
   sass_dir: _sass
   style: :compressed
 
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    default_lang: html
-
 # Specify the author for blog posts
 author:
   name: Wilson Truong
