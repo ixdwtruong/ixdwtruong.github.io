@@ -25,7 +25,10 @@ sass:
   sass_dir: _sass
   style: :compressed
 
+markdown: kramdown
 highlighter: rouge
+    kramdown:
+      input: GFM
 
 # Specify the author for blog posts
 author:
